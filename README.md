@@ -17,7 +17,7 @@ NOTE: please cite one of the following pubblication in case of using these image
 
 @inproceedings{DelussuVISIGRAPP20, author = {Rita Delussu, and Lorenzo Putzu and Giorgio Fumera}, title = {Investigating Synthetic Data Sets for Crowd Counting in Cross-scene Scenarios}, booktitle = {VISIGRAPP}, pages = {365--372}, year = {2020}}
 
-@article{DelussuPR2021, author = {Rita Delussu, and Lorenzo Putzu and Giorgio Fumera}, title = {Scene-specific Crowd Counting Using Synthetic Training Images}, journal = {Pattern Recognition}, publisher={Elsevier}, volume = {}, number = {}, pages = {}, year = {In review}}
+@article{DelussuPR2021, author = {Rita Delussu, and Lorenzo Putzu and Giorgio Fumera}, title = {Scene-specific Crowd Counting Using Synthetic Training Images}, journal = {Pattern Recognition}, publisher={Elsevier}, volume = {}, number = {}, pages = {}, year = {Accepted with major revision}}
  
 # LICENSE
 
