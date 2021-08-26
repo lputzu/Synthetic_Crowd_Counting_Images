@@ -1,6 +1,6 @@
-# Synthetic_Crowd_Counting_Images
+# Synthetic_Crowd_Counting_Images (UNICA-SCCI)
 
-Here, you can find some some single-scene synthetic image data sets for training scene-scpecific crowd counting models, including:
+Here, you can find some some single-scene synthetic image data sets for training scene-specific crowd counting models, including:
   - Mall
   - UCSD
   - PETSview1
@@ -8,6 +8,8 @@ Here, you can find some some single-scene synthetic image data sets for training
   - PETSview3
 
 The images are obtained by extracting the background images from 3 well known data sets (Mall, UCSD and PETS2009), and then placing synthetic individuals as explained in details in our works (see Section References). For PETS2009, which originally is not a single-scene data set, we divided the images into three groups (we grouped the images belonging to the same camera), which brought to three different views: PETSview1, PETSview2 and PETSview3.
+
+![preview](preview.jpg)
 
 Authors, releasers and maintainers: Lorenzo Putzu - University of Cagliari
 
